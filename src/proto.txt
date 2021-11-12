@@ -1,0 +1,9 @@
+infinite scroll
+
+1.set up env  variables.
+when we add env file we must restart server
+when creating name in env it must start with REACT_APP_ETC...
+
+
+
+
